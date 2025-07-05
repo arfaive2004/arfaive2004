@@ -13,9 +13,6 @@ I’m a dedicated student with a keen passion for Artificial Intelligence and Ma
 ![](https://nirzak-streak-stats.vercel.app/?user=arfaive2004&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arfaive2004&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=arfaive2004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
